@@ -4,7 +4,7 @@
 
 ## Goal
 
-> _One sentence here._
+By Thursday EOD, the wired Evergreen Quote app saves quotes that survive a reload, the containerized API (2.0) has run as 3 replicas on the local cluster, and the launch is merged to main via a reviewed PR with both CI jobs green. 
 
 ## "Done" looks like
 
@@ -18,4 +18,7 @@
 
 ## Out of scope (this week)
 
-- _What you are intentionally not doing._
+- Writing new features or refactoring the team's code (assembly, not authoring).
+- Renters coverage
+- A required cloud deploy (EKS only if the sponsor opens Thursday's window).
+- Logins, payments, or binding policies.
